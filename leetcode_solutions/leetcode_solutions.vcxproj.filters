@@ -27,6 +27,9 @@
     <ClCompile Include="001_Two_Sum.cpp">
       <Filter>源文件\solution</Filter>
     </ClCompile>
+    <ClCompile Include="002_Add_Two_Numbers.cpp">
+      <Filter>源文件\solution</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="tools.h">
